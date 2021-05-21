@@ -1,7 +1,7 @@
 # Description
 refgui is cluster reference GUI implementation in Automotive Grade Linux(AGL) Instrument Cluster Expert Group.  
 
-#Requirement
+# Requirement
 These libraries are required.  
 - Qt5.13 or later version
 - cluster-service which is implemented in AGL
