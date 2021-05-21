@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>3DModelTexture/distance_arrow.png</file>
+        <file>3DModelTexture/distance_base.png</file>
+        <file>3DModelTexture/distance_set.png</file>
+        <file>3DModelTexture/road.png</file>
+        <file>3DModelTexture/road_light.png</file>
+        <file>3DModelTexture/sensor_line.png</file>
+        <file>3DModelTexture/TbT_L.png</file>
+        <file>3DModelTexture/TbT_LF.png</file>
+        <file>3DModelTexture/TbT_R.png</file>
+        <file>3DModelTexture/TbT_RF.png</file>
+        <file>3DModelTexture/TbT_shadow_L.png</file>
+        <file>3DModelTexture/TbT_shadow_LF.png</file>
+        <file>3DModelTexture/TbT_shadow_R.png</file>
+        <file>3DModelTexture/TbT_shadow_RF.png</file>
+        <file>3DModelTexture/uvmap.jpg</file>
+        <file>3DModelTexture/uvmap_gray.jpg</file>
+    </qresource>
+</RCC>

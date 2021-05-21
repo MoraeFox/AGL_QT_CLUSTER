@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Shaders/frag/RefCubeMapTex_RGBChange_DistDark_Qt.frag</file>
+        <file>Shaders/frag/RefTexRefColorFactor_Qt.frag</file>
+        <file>Shaders/vert/RefTrans_Qt.vert</file>
+        <file>Shaders/vert/RefTransCubeMapReflection_DistDark_Qt.vert</file>
+        <file>Shaders/frag/guageMask.frag</file>
+        <file>Shaders/vert/guageMask.vert</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>3DModelData/car.obj</file>
+        <file>3DModelData/distance_arrow.obj</file>
+        <file>3DModelData/distance_base.obj</file>
+        <file>3DModelData/distance_set.obj</file>
+        <file>3DModelData/other_car.obj</file>
+        <file>3DModelData/road.obj</file>
+        <file>3DModelData/road_light.obj</file>
+        <file>3DModelData/sensor_line.obj</file>
+        <file>3DModelData/tbt.obj</file>
+        <file>3DModelData/tbt_shadow.obj</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Fonts/Inter-Bold.ttf</file>
+        <file>Fonts/Inter-Regular.ttf</file>
+    </qresource>
+</RCC>
