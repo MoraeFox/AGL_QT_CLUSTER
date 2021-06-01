@@ -32,7 +32,7 @@ cd <installation directory>
 ```
 
 # License(Software)
-refgui is licensed under the [MIT](https://github.com/agl-ic-eg/refgui/blob/main/LICENSE) license.  
+refgui is licensed under the [Apache License 2.0](https://github.com/agl-ic-eg/refgui/blob/main/LICENSE).  
 
 # License(Font)
 Inter Font is included in this software and Inter Font is licensed under SIL Open Font License 1.1.  
