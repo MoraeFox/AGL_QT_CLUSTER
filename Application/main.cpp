@@ -21,9 +21,13 @@
 #include <QQmlContext>
 #include <QDebug>
 
+//Fox added start
+#include <QString>
+//Fox added end
 
 int main(int argc, char *argv[])
 {
+
     QSurfaceFormat defaultFormat;
     defaultFormat.setSwapBehavior(QSurfaceFormat::TripleBuffer);
     defaultFormat.setRenderableType(QSurfaceFormat::OpenGLES);

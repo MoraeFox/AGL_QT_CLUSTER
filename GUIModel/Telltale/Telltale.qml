@@ -61,8 +61,8 @@ Item {
       source: "qrc:/Images/Telltale/telltale1.png"
       x:191
       y:115
-      width:52
-      height:52
+      width:500
+      height:500
       visible: telltaleMasterWarn
     }
     Image{
